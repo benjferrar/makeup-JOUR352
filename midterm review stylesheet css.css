@@ -1,0 +1,19 @@
+#h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#figcaption {
+    font-size: 8px;
+}
+
+#byline {
+    font-family: Helvetica, sans-serif;
+    font-size: 14px;
+    font-style: italic;
+}
+.blockquote {
+    font-weight: bold;
+}
+.text-center {
+    text-align: center;
+}
